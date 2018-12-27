@@ -1,0 +1,1835 @@
+Simple mode: cosine similarity
+
+disease Alzheimer 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 448 Alzheimer’s disease and other dementias]
+score: 88036.39435768127
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 226 Human immunodeficiency virus disease: Aids and related disorders]
+score: 23103.107631206512
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 449 Parkinson’s disease and other Movement disorders]
+score: 19908.342719078064
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 444e Biology of neurologic diseases]
+score: 16532.306671142578
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 453e Prion diseases]
+score: 14063.21394443512
+elapsed time: 14.286176681518555
+Apendicitis 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 356 Acute Appendicitis and Peritonitis]
+score: 50822.72619009018
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 163 sexually transmitted infections: overview and Clinical Approach]
+score: 6955.814957618713
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 344 Approach to the Patient with Gastrointestinal disease]
+score: 3566.50710105896
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 196 Plague and other Yersinia infections]
+score: 2674.88032579422
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 351 inflammatory Bowel disease]
+score: 2674.88032579422
+elapsed time: 5.865689754486084
+Artherosclerosis 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 298 Hypertensive vascular disease]
+score: 211996.90186977386
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 291e the Pathogenesis, Prevention, and treatment of Atherosclerosis]
+score: 88585.33030748367
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 338 Glomerular diseases]
+score: 76321.75213098526
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 446 Cerebrovascular diseases]
+score: 52498.14283847809
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 293 ischemic Heart disease]
+score: 47087.61668205261
+elapsed time: 5.5809900760650635
+Bacterial meningitis 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 164 Meningitis, Encephalitis, Brain Abscess, and Empyema]
+score: 67060173.031270504
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 147 Approach to the Acutely ill infected febrile Patient]
+score: 6523727.301299572
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 180 Meningococcal infections]
+score: 6036256.879925728
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 170 treatment and Prophylaxis of Bacterial infections]
+score: 4018866.0390377045
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 171 Pneumococcal infections]
+score: 3529345.4197645187
+elapsed time: 11.587369680404663
+pulomnary infection 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 226 Human immunodeficiency virus disease: Aids and related disorders]
+score: 1031074.9223828316
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 360 Acute viral Hepatitis]
+score: 302692.19744205475
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 169 infections in transplant recipients]
+score: 238434.04686450958
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 186 diseases Caused by Gram-negative Enteric Bacilli]
+score: 228565.22983312607
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 233 Arthropod-Borne and rodent-Borne virus infections]
+score: 221081.22515678406
+elapsed time: 10.869830846786499
+Coeliac sprue 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 349 disorders of Absorption]
+score: 10003948.136389256
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 352 irritable Bowel syndrome]
+score: 5412910.044193268
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 345 Gastrointestinal Endoscopy]
+score: 3611215.3029441833
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 348 Peptic ulcer disease and related disorders]
+score: 903760.2809667587
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 134 Malignancies of Lymphoid Cells]
+score: 902955.977499485
+elapsed time: 10.148646116256714
+Chickenpox 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 217 varicella-Zoster virus infections]
+score: 34000.0
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 168 infections Acquired in Health Care facilities]
+score: 6000.0
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 169 infections in transplant recipients]
+score: 2000.0
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 215e Antiviral Chemotherapy, Excluding Antiretroviral drugs]
+score: 2000.0
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 458 Multiple sclerosis and other demyelinating diseases]
+score: 2000.0
+elapsed time: 5.3086841106414795
+Coronary artery disease 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 293 ischemic Heart disease]
+score: 49363171.998143196
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 282 Congenital Heart disease in the Adult]
+score: 47036664.030730724
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 270e noninvasive Cardiac imaging: Echocardiography, nuclear Cardiology, and Magnetic resonance/Computed tomography imaging]
+score: 41423235.87870598
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 295 st-segment Elevation Myocardial infarction]
+score: 33512058.593332767
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 272 diagnostic Cardiac Catheterization and Coronary Angiography]
+score: 33253838.65046501
+elapsed time: 10.926871061325073
+Dengue 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 233 Arthropod-Borne and rodent-Borne virus infections]
+score: 79000.00941753387
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 151e Climate Change and infectious disease]
+score: 25000.00298023224
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 149 Health recommendations for international travel]
+score: 11000.001311302185
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 147 Approach to the Acutely ill infected febrile Patient]
+score: 5000.000596046448
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 208 Leptospirosis]
+score: 5000.000596046448
+elapsed time: 5.451529502868652
+Diabetic melitus 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 418 diabetes Mellitus: Management and therapies]
+score: 151014.3780708313
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 419 diabetes Mellitus: Complications]
+score: 147422.9017496109
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 417 diabetes Mellitus: diagnosis, Classification, and Pathophysiology]
+score: 113023.88381958008
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 338 Glomerular diseases]
+score: 50979.93302345276
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 335 Chronic Kidney disease]
+score: 30523.76013994217
+elapsed time: 10.490390300750732
+Diphtheria 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 175 diphtheria and other Corynebacterial infections]
+score: 143111.84203624725
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 148 immunization Principles and vaccine use]
+score: 9000.001072883606
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 169 infections in transplant recipients]
+score: 5000.000596046448
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 149 Health recommendations for international travel]
+score: 4000.000476837158
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 104 infections in Patients with Cancer]
+score: 3779.872417449951
+elapsed time: 5.447561979293823
+Epilepsy 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 445 seizures and Epilepsy]
+score: 150502.5119781494
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 444e Biology of neurologic diseases]
+score: 23443.716526031494
+Recommendation-3: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 19 Brain Rhythms and Sleep]
+score: 12820.647716522217
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 442e Electrodiagnostic studies of nervous system disorders: EEG, Evoked Potentials, and EMG]
+score: 9641.295433044434
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 446 Cerebrovascular diseases]
+score: 8000.0
+elapsed time: 5.45996356010437
+Eosinophilic oesophagitis 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 347 diseases of the Esophagus]
+score: 6861209.173798561
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 345 Gastrointestinal Endoscopy]
+score: 1967908.4572196007
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 344 Approach to the Patient with Gastrointestinal disease]
+score: 1473784.3895554543
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 348 Peptic ulcer disease and related disorders]
+score: 1000969.1461324692
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 310 Hypersensitivity Pneumonitis and Pulmonary infiltrates with Eosinophilia]
+score: 107533.5967540741
+elapsed time: 10.52709412574768
+Fibromyalgia 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 233 Arthropod-Borne and rodent-Borne virus infections]
+score: 25723.285675048828
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 393 Approach to Articular and Musculoskeletal disorders]
+score: 23455.52110671997
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 385 the vasculitis syndromes]
+score: 13338.713645935059
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 392 familial Mediterranean fever and other Hereditary Autoinflammatory diseases]
+score: 11177.258014678955
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 462e Muscular dystrophies and other Muscle diseases]
+score: 9499.724388122559
+elapsed time: 7.098248720169067
+Hepatitis A 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 360 Acute viral Hepatitis]
+score: 536317.5119161606
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 362 Chronic Hepatitis]
+score: 438348.27625751495
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 357 Approach to the Patient with Liver disease]
+score: 82974.27248954773
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 368 Liver transplantation]
+score: 80541.59599542618
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 361 toxic and drug-induced Hepatitis]
+score: 53022.486448287964
+elapsed time: 8.740504264831543
+Human papillomavirus 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 169 infections in transplant recipients]
+score: 15385191.11430645
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 222 Human Papillomavirus infections]
+score: 11022536.798655987
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 223 Common viral respiratory infections]
+score: 6903203.323543072
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 214e Medical virology]
+score: 6643749.383866787
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 226 Human immunodeficiency virus disease: Aids and related disorders]
+score: 6389801.786720753
+elapsed time: 10.532550811767578
+Huntington disease 
+
+Recommendation-1: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 14 Brain Control of Movement]
+score: 12000.0
+Recommendation-2: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 24 Memory Systems]
+score: 2000.0
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 449 Parkinson’s disease and other Movement disorders]
+score: 1000.0
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 99 Approach to the Patient with Cancer]
+score: 0
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 100 Prevention and Early detection of Cancer]
+score: 0
+elapsed time: 5.474347114562988
+syphillis 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 100 Prevention and Early detection of Cancer]
+score: 0
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 101e Cancer Genetics]
+score: 0
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 102e Cancer Cell Biology]
+score: 0
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 103e Principles of Cancer treatment]
+score: 0
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 104 infections in Patients with Cancer]
+score: 0
+elapsed time: 5.295787572860718
+Lupus erythematous 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 372e introduction to the immune system]
+score: 17446885.17642021
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 378 systemic Lupus Erythematosus]
+score: 16601077.64327526
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 388 Polymyositis, dermatomyositis, and inclusion Body Myositis]
+score: 4594009.192943573
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 377e Autoimmunity and Autoimmune diseases]
+score: 4590335.786342621
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 338 Glomerular diseases]
+score: 3702127.4965405464
+elapsed time: 11.860339164733887
+myeloma multiple 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 136 Plasma Cell disorders]
+score: 16090913.879394531
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 103e Principles of Cancer treatment]
+score: 11752715.222895145
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 334 Acute Kidney injury]
+score: 6508616.925120354
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 424 disorders of the Parathyroid Gland and Calcium Homeostasis]
+score: 6384864.798069
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 459 Peripheral neuropathy]
+score: 5030424.583137035
+elapsed time: 11.665910720825195
+Nongonococci urethritis 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 213 Chlamydial infections]
+score: 3818906.32468462
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 181 Gonococcal infections]
+score: 3335925.8643984795
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 163 sexually transmitted infections: overview and Clinical Approach]
+score: 2875775.824189186
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 254 Protozoal intestinal infections and trichomoniasis]
+score: 1419265.0083899498
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 157 infectious Arthritis]
+score: 1336650.0653624535
+elapsed time: 10.706645488739014
+Parkinson disease 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 449 Parkinson’s disease and other Movement disorders]
+score: 24682.804584503174
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 444e Biology of neurologic diseases]
+score: 19273.60439300537
+Recommendation-3: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 14 Brain Control of Movement]
+score: 17999.997854232788
+Recommendation-4: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 24 Memory Systems]
+score: 7999.999046325684
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 276 supraventricular tachyarrhythmias]
+score: 5999.999284744263
+elapsed time: 5.674233675003052
+Schizophrenia 
+
+Recommendation-1: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 22 Mental Illness]
+score: 73056.27876520157
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 466 Mental disorders]
+score: 27536.982595920563
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 465e Biology of Psychiatric disorders]
+score: 12807.68769979477
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 448 Alzheimer’s disease and other dementias]
+score: 7448.895812034607
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 469e Cocaine and other Commonly Abused drugs]
+score: 6997.164189815521
+elapsed time: 5.774427890777588
+Q fever 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 211 rickettsial diseases]
+score: 59544998.22676182
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 152e infections in veterans returning from foreign Wars]
+score: 7013999.791324139
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 210 Lyme Borreliosis]
+score: 3017999.910593033
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 287 Cardiomyopathy and Myocarditis]
+score: 2006999.9403953552
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 464e Chronic fatigue syndrome]
+score: 1999999.9403953552
+elapsed time: 10.926930904388428
+Rheumatic arthritis 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 372e introduction to the immune system]
+score: 19925631.27374649
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 377e Autoimmunity and Autoimmune diseases]
+score: 15893256.5523386
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 380 rheumatoid Arthritis]
+score: 14508418.046236038
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 393 Approach to Articular and Musculoskeletal disorders]
+score: 9893208.368241787
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 157 infectious Arthritis]
+score: 8705471.885025501
+elapsed time: 10.49280834197998
+anemia sickle cell 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 127 disorders of Hemoglobin]
+score: 16079824.4561553
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 446 Cerebrovascular diseases]
+score: 3000999.910533428
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 128 Megaloblastic Anemias]
+score: 2926260.858774185
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 338 Glomerular diseases]
+score: 2013999.9399781227
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 139e Hematopoietic Cell transplantation]
+score: 2009664.2072200775
+elapsed time: 10.614390850067139
+tenis elbow 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 398 Periarticular disorders of the Extremities]
+score: 15000.0
+Recommendation-2: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 13 Spinal Control of Movement]
+score: 9000.0
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 459 Peripheral neuropathy]
+score: 6000.0
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 463e special issues in inpatient neurologic Consultation]
+score: 5000.0
+Recommendation-5: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 14 Brain Control of Movement]
+score: 5000.0
+elapsed time: 10.624806642532349
+Varicose vein 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 303 Chronic venous disease and Lymphedema]
+score: 2050000.0
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 302 Arterial diseases of the Extremities]
+score: 49000.0
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 368 Liver transplantation]
+score: 19000.0
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 365 Cirrhosis and its Complications]
+score: 15000.0
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 111 tumors of the Liver and Biliary tree]
+score: 13000.0
+elapsed time: 10.850485563278198
+Virus meningitis 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 233 Arthropod-Borne and rodent-Borne virus infections]
+score: 11135023.317754269
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 164 Meningitis, Encephalitis, Brain Abscess, and Empyema]
+score: 6485922.514081001
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 169 infections in transplant recipients]
+score: 2799425.097346306
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 214e Medical virology]
+score: 1620919.649899006
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 411 disorders of the testes and Male reproductive system]
+score: 1383659.988641739
+elapsed time: 10.964564085006714
+Brain cross section 
+
+Recommendation-1: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 7 The Structure of the Nervous System]
+score: 3702511886.5360813
+Recommendation-2: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 6 Neurotransmitter Systems]
+score: 5081000.158667564
+Recommendation-3: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 11 The Auditory and Vestibular Systems]
+score: 4041000.2133250237
+Recommendation-4: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 9 The Eye]
+score: 4027000.1222491264
+Recommendation-5: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 10 The Central Visual System]
+score: 3062000.0959038734
+elapsed time: 15.903730869293213
+tasting receptor potential 
+
+Recommendation-1: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 8 The Chemical Senses]
+score: 12653101.897835732
+Recommendation-2: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 11 The Auditory and Vestibular Systems]
+score: 10028930.637717247
+Recommendation-3: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 12 The Somatic Sensory System]
+score: 9068134.425640106
+Recommendation-4: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 23 Wiring the Brain]
+score: 2072185.9889030457
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 298 Hypertensive vascular disease]
+score: 1947910.2306962013
+elapsed time: 15.969199180603027
+cochlea anatomy 
+
+Recommendation-1: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 11 The Auditory and Vestibular Systems]
+score: 1632398.8516926765
+Recommendation-2: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 10 The Central Visual System]
+score: 1509841.498017311
+Recommendation-3: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 7 The Structure of the Nervous System]
+score: 28890.799045562744
+Recommendation-4: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 9 The Eye]
+score: 10000.0
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 353 diverticular disease and Common Anorectal disorders]
+score: 8000.0
+elapsed time: 10.74236011505127
+socio phobia 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 466 Mental disorders]
+score: 12350.58867931366
+Recommendation-2: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 22 Mental Illness]
+score: 1837.6473188400269
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 152e infections in veterans returning from foreign Wars]
+score: 807.774543762207
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 99 Approach to the Patient with Cancer]
+score: 0
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 100 Prevention and Early detection of Cancer]
+score: 0
+elapsed time: 10.417476654052734
+retina layer 
+
+Recommendation-1: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 10 The Central Visual System]
+score: 6808613.3162379265
+Recommendation-2: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 9 The Eye]
+score: 5722734.9152565
+Recommendation-3: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 11 The Auditory and Vestibular Systems]
+score: 920850.388944149
+Recommendation-4: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 23 Wiring the Brain]
+score: 113517.37260818481
+Recommendation-5: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 7 The Structure of the Nervous System]
+score: 24126.81668996811
+elapsed time: 10.450214147567749
+
+Simple mode: Euclidean distance comparison function
+
+disease Alzheimer 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 448 Alzheimer’s disease and other dementias]
+score: 87830.3165435791
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 226 Human immunodeficiency virus disease: Aids and related disorders]
+score: 23122.421741485596
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 449 Parkinson’s disease and other Movement disorders]
+score: 19873.55136871338
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 444e Biology of neurologic diseases]
+score: 16214.180946350098
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 453e Prion diseases]
+score: 14057.290077209473
+elapsed time: 7.4533851146698
+Apendicitis 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 356 Acute Appendicitis and Peritonitis]
+score: 49316.803336143494
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 163 sexually transmitted infections: overview and Clinical Approach]
+score: 6844.202041625977
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 196 Plague and other Yersinia infections]
+score: 5091.634631156921
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 344 Approach to the Patient with Gastrointestinal disease]
+score: 3460.8283042907715
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 351 inflammatory Bowel disease]
+score: 2595.6212282180786
+elapsed time: 6.296713829040527
+Artherosclerosis 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 298 Hypertensive vascular disease]
+score: 282304.9237728119
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 418 diabetes Mellitus: Management and therapies]
+score: 131385.4108452797
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 417 diabetes Mellitus: diagnosis, Classification, and Pathophysiology]
+score: 108210.7601761818
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 338 Glomerular diseases]
+score: 106754.71776723862
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 291e the Pathogenesis, Prevention, and treatment of Atherosclerosis]
+score: 100046.98312282562
+elapsed time: 5.394986867904663
+Bacterial meningitis 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 164 Meningitis, Encephalitis, Brain Abscess, and Empyema]
+score: 72778770.9249258
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 153 Pneumonia]
+score: 19474021.749019623
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 226 Human immunodeficiency virus disease: Aids and related disorders]
+score: 18656939.48417902
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 224 influenza]
+score: 17711363.0464077
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 204 nontuberculous Mycobacterial infections]
+score: 10287879.423499107
+elapsed time: 9.969094276428223
+pulomnary infection 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 226 Human immunodeficiency virus disease: Aids and related disorders]
+score: 1286489.5125627518
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 164 Meningitis, Encephalitis, Brain Abscess, and Empyema]
+score: 459161.82774305344
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 360 Acute viral Hepatitis]
+score: 313408.451795578
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 169 infections in transplant recipients]
+score: 252846.362054348
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 233 Arthropod-Borne and rodent-Borne virus infections]
+score: 251631.55484199524
+elapsed time: 9.89618468284607
+Coeliac sprue 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 349 disorders of Absorption]
+score: 9980248.177826405
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 352 irritable Bowel syndrome]
+score: 5400133.788585663
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 345 Gastrointestinal Endoscopy]
+score: 3602689.2815828323
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 348 Peptic ulcer disease and related disorders]
+score: 901622.3872900009
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 134 Malignancies of Lymphoid Cells]
+score: 900822.3426938057
+elapsed time: 9.572789430618286
+Chickenpox 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 229 Measles (rubeola)]
+score: 151312.86120414734
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 217 varicella-Zoster virus infections]
+score: 35609.71128940582
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 148 immunization Principles and vaccine use]
+score: 9658.267736434937
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 168 infections Acquired in Health Care facilities]
+score: 7804.855644702911
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 230e rubella (German Measles)]
+score: 7243.700802326202
+elapsed time: 5.250650644302368
+Coronary artery disease 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 293 ischemic Heart disease]
+score: 48666512.02607155
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 282 Congenital Heart disease in the Adult]
+score: 46988646.11816406
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 270e noninvasive Cardiac imaging: Echocardiography, nuclear Cardiology, and Magnetic resonance/Computed tomography imaging]
+score: 44272562.9863143
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 295 st-segment Elevation Myocardial infarction]
+score: 33529258.422493935
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 272 diagnostic Cardiac Catheterization and Coronary Angiography]
+score: 33246329.968333244
+elapsed time: 9.711671113967896
+Dengue 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 248 Malaria]
+score: 174658.73682498932
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 233 Arthropod-Borne and rodent-Borne virus infections]
+score: 80600.54135322571
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 151e Climate Change and infectious disease]
+score: 42406.22556209564
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 149 Health recommendations for international travel]
+score: 35408.93232822418
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 246e Agents used to treat Parasitic infections]
+score: 28009.47368144989
+elapsed time: 5.174267053604126
+Diabetic melitus 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 418 diabetes Mellitus: Management and therapies]
+score: 155579.29641008377
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 419 diabetes Mellitus: Complications]
+score: 147826.89315080643
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 417 diabetes Mellitus: diagnosis, Classification, and Pathophysiology]
+score: 116889.10800218582
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 338 Glomerular diseases]
+score: 50769.04946565628
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 335 Chronic Kidney disease]
+score: 30406.20368719101
+elapsed time: 9.465158700942993
+Diphtheria 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 175 diphtheria and other Corynebacterial infections]
+score: 142954.39624786377
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 148 immunization Principles and vaccine use]
+score: 9000.0
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 169 infections in transplant recipients]
+score: 5000.0
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 104 infections in Patients with Cancer]
+score: 4521.137952804565
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 149 Health recommendations for international travel]
+score: 4000.0
+elapsed time: 5.156411647796631
+Epilepsy 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 445 seizures and Epilepsy]
+score: 152934.51207876205
+Recommendation-2: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 22 Mental Illness]
+score: 54276.542127132416
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 444e Biology of neurologic diseases]
+score: 24260.344922542572
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 466 Mental disorders]
+score: 15280.037701129913
+Recommendation-5: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 19 Brain Rhythms and Sleep]
+score: 13630.792260169983
+elapsed time: 5.215930700302124
+Eosinophilic oesophagitis 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 347 diseases of the Esophagus]
+score: 6655991.056859493
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 345 Gastrointestinal Endoscopy]
+score: 1902493.995666504
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 344 Approach to the Patient with Gastrointestinal disease]
+score: 1425988.258600235
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 348 Peptic ulcer disease and related disorders]
+score: 960111.8420362473
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 310 Hypersensitivity Pneumonitis and Pulmonary infiltrates with Eosinophilia]
+score: 103756.84583187103
+elapsed time: 9.912054538726807
+Fibromyalgia 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 233 Arthropod-Borne and rodent-Borne virus infections]
+score: 25174.154102802277
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 393 Approach to Articular and Musculoskeletal disorders]
+score: 24765.410542488098
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 462e Muscular dystrophies and other Muscle diseases]
+score: 14743.78877878189
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 385 the vasculitis syndromes]
+score: 14091.075539588928
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 392 familial Mediterranean fever and other Hereditary Autoinflammatory diseases]
+score: 10771.705865859985
+elapsed time: 6.033834218978882
+Hepatitis A 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 360 Acute viral Hepatitis]
+score: 536902.6755094528
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 362 Chronic Hepatitis]
+score: 438295.4480648041
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 357 Approach to the Patient with Liver disease]
+score: 82919.05295848846
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 368 Liver transplantation]
+score: 80488.72113227844
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 361 toxic and drug-induced Hepatitis]
+score: 52943.172097206116
+elapsed time: 8.520282506942749
+Human papillomavirus 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 222 Human Papillomavirus infections]
+score: 6012915.171742439
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 226 Human immunodeficiency virus disease: Aids and related disorders]
+score: 4983084.715247154
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 163 sexually transmitted infections: overview and Clinical Approach]
+score: 3007000.0
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 148 immunization Principles and vaccine use]
+score: 3003607.8264713287
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 169 infections in transplant recipients]
+score: 2976636.5227103233
+elapsed time: 9.84410047531128
+Huntington disease 
+
+Recommendation-1: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 14 Brain Control of Movement]
+score: 12000.0
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 444e Biology of neurologic diseases]
+score: 11473.886609077454
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 449 Parkinson’s disease and other Movement disorders]
+score: 7556.506633758545
+Recommendation-4: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 24 Memory Systems]
+score: 2000.0
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 417 diabetes Mellitus: diagnosis, Classification, and Pathophysiology]
+score: 819.5633292198181
+elapsed time: 5.300251483917236
+syphillis 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 206 syphilis]
+score: 184364.3126487732
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 163 sexually transmitted infections: overview and Clinical Approach]
+score: 31537.18328475952
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 207e Endemic treponematoses]
+score: 21024.788856506348
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 226 Human immunodeficiency virus disease: Aids and related disorders]
+score: 10512.394428253174
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 156 infections of the skin, Muscles, and soft tissues]
+score: 4851.874351501465
+elapsed time: 5.33298659324646
+Lupus erythematous 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 372e introduction to the immune system]
+score: 17109166.49889946
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 378 systemic Lupus Erythematosus]
+score: 16282609.418869019
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 388 Polymyositis, dermatomyositis, and inclusion Body Myositis]
+score: 4504706.024885178
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 377e Autoimmunity and Autoimmune diseases]
+score: 4501885.920763016
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 338 Glomerular diseases]
+score: 3631328.9973139763
+elapsed time: 10.37085485458374
+myeloma multiple 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 136 Plasma Cell disorders]
+score: 17837615.943968296
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 103e Principles of Cancer treatment]
+score: 12466688.576221466
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 334 Acute Kidney injury]
+score: 6515858.5495352745
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 424 disorders of the Parathyroid Gland and Calcium Homeostasis]
+score: 5590454.299926758
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 102e Cancer Cell Biology]
+score: 5405710.101902485
+elapsed time: 9.871878862380981
+Nongonococci urethritis 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 213 Chlamydial infections]
+score: 3765673.7278699875
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 181 Gonococcal infections]
+score: 3286704.3578624725
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 163 sexually transmitted infections: overview and Clinical Approach]
+score: 2819871.9160556793
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 254 Protozoal intestinal infections and trichomoniasis]
+score: 1399451.2358307838
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 157 infectious Arthritis]
+score: 1322885.6684565544
+elapsed time: 9.713157892227173
+Parkinson disease 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 449 Parkinson’s disease and other Movement disorders]
+score: 35670.337200164795
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 444e Biology of neurologic diseases]
+score: 21106.521368026733
+Recommendation-3: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 14 Brain Control of Movement]
+score: 19641.47138595581
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 448 Alzheimer’s disease and other dementias]
+score: 9946.849822998047
+Recommendation-5: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 24 Memory Systems]
+score: 8000.0
+elapsed time: 5.252139091491699
+Schizophrenia 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 445 seizures and Epilepsy]
+score: 115065.1906132698
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 448 Alzheimer’s disease and other dementias]
+score: 86757.55101442337
+Recommendation-3: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 22 Mental Illness]
+score: 77641.96211099625
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 466 Mental disorders]
+score: 57800.64356327057
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 444e Biology of neurologic diseases]
+score: 25974.075973033905
+elapsed time: 5.374650478363037
+Q fever 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 211 rickettsial diseases]
+score: 59549076.52705908
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 152e infections in veterans returning from foreign Wars]
+score: 7014000.0
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 210 Lyme Borreliosis]
+score: 3018000.0
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 287 Cardiomyopathy and Myocarditis]
+score: 2007000.0
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 464e Chronic fatigue syndrome]
+score: 2000000.0
+elapsed time: 9.99885606765747
+Rheumatic arthritis 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 157 infectious Arthritis]
+score: 21427700.601518154
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 393 Approach to Articular and Musculoskeletal disorders]
+score: 20974577.77428627
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 372e introduction to the immune system]
+score: 19862199.115872383
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 377e Autoimmunity and Autoimmune diseases]
+score: 15811460.606575012
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 380 rheumatoid Arthritis]
+score: 15602583.659410477
+elapsed time: 9.660085678100586
+anemia sickle cell 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 127 disorders of Hemoglobin]
+score: 16081498.724877834
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 446 Cerebrovascular diseases]
+score: 3001000.0
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 128 Megaloblastic Anemias]
+score: 2910419.1159009933
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 338 Glomerular diseases]
+score: 2014000.0
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 139e Hematopoietic Cell transplantation]
+score: 2009622.3022937775
+elapsed time: 10.086151123046875
+tenis elbow 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 394 osteoarthritis]
+score: 48258.96978378296
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 393 Approach to Articular and Musculoskeletal disorders]
+score: 26129.48489189148
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 398 Periarticular disorders of the Extremities]
+score: 20630.213141441345
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 395 Gout and other Crystal-Associated Arthropathies]
+score: 13260.42628288269
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 459 Peripheral neuropathy]
+score: 11630.213141441345
+elapsed time: 9.601063251495361
+Varicose vein 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 303 Chronic venous disease and Lymphedema]
+score: 2053084.4458341599
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 371 Acute and Chronic Pancreatitis]
+score: 1809478.1339168549
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 365 Cirrhosis and its Complications]
+score: 933518.0678367615
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 302 Arterial diseases of the Extremities]
+score: 49000.0
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 368 Liver transplantation]
+score: 19803.674459457397
+elapsed time: 9.865431547164917
+Virus meningitis 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 233 Arthropod-Borne and rodent-Borne virus infections]
+score: 83698641.2050128
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 226 Human immunodeficiency virus disease: Aids and related disorders]
+score: 44593907.251656055
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 229 Measles (rubeola)]
+score: 13584181.512713432
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 214e Medical virology]
+score: 13200391.478180885
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 224 influenza]
+score: 11188210.761547089
+elapsed time: 9.858981847763062
+Brain cross section 
+
+Recommendation-1: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 7 The Structure of the Nervous System]
+score: 6209857299.656828
+Recommendation-2: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 6 Neurotransmitter Systems]
+score: 6932831.083774567
+Recommendation-3: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 11 The Auditory and Vestibular Systems]
+score: 4042637.526154518
+Recommendation-4: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 9 The Eye]
+score: 4029409.8539352417
+Recommendation-5: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 17 Sex and the Brain]
+score: 4000093.2463407516
+elapsed time: 13.837892055511475
+tasting receptor potential 
+
+Recommendation-1: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 8 The Chemical Senses]
+score: 1897711230.2790682
+Recommendation-2: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 6 Neurotransmitter Systems]
+score: 17210531.956851482
+Recommendation-3: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 11 The Auditory and Vestibular Systems]
+score: 12724517.623782158
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 226 Human immunodeficiency virus disease: Aids and related disorders]
+score: 11915780.98899126
+Recommendation-5: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 12 The Somatic Sensory System]
+score: 9141587.505042553
+elapsed time: 14.698944568634033
+cochlea anatomy 
+
+Recommendation-1: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 11 The Auditory and Vestibular Systems]
+score: 1630484.4034910202
+Recommendation-2: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 10 The Central Visual System]
+score: 1509814.956188202
+Recommendation-3: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 7 The Structure of the Nervous System]
+score: 28704.69331741333
+Recommendation-4: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 9 The Eye]
+score: 10000.0
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 353 diverticular disease and Common Anorectal disorders]
+score: 8000.0
+elapsed time: 9.699270963668823
+socio phobia 
+
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 466 Mental disorders]
+score: 7565677.9354810715
+Recommendation-2: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 22 Mental Illness]
+score: 915651.1614918709
+Recommendation-3: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 17 Sex and the Brain]
+score: 7282.657980918884
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 202 tuberculosis]
+score: 6444.427609443665
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 266e Epidemiology of Cardiovascular disease]
+score: 5612.497806549072
+elapsed time: 9.633301973342896
+retina layer 
+
+Recommendation-1: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 10 The Central Visual System]
+score: 6775246.826350689
+Recommendation-2: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 9 The Eye]
+score: 5724307.6447844505
+Recommendation-3: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 11 The Auditory and Vestibular Systems]
+score: 926685.7271194458
+Recommendation-4: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 23 Wiring the Brain]
+score: 116078.64785194397
+Recommendation-5: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 7 The Structure of the Nervous System]
+score: 24956.100285053253
+elapsed time: 9.650663375854492
+
+Lecture slide mode: cosine similarity
+
+[180206_03A] 용혈성 빈혈(김기환)_김성래 
+
+hemolytic anemia hemolysis pnh cold defect hemoglobinuria lgg rbc autoimmune igm
+[3, 4, 7, 8, 10]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 129 Hemolytic Anemias and Anemia due to Acute Blood Loss]
+score: 27175.128377510435
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 127 disorders of Hemoglobin]
+score: 13798.441812396048
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 377e Autoimmunity and Autoimmune diseases]
+score: 7534.513903260231
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 134 Malignancies of Lymphoid Cells]
+score: 5513.1386613845825
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 221 Parvovirus infections]
+score: 4023.8882854912017
+elapsed time: 69.1494369506836
+[180206_07A] 혈소판 감소증(김인호)_김수민 
+
+thrombocytopenia plt platelet bleeding production itp count destruction immune ttp hus
+[1, 5, 9, 10]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 140 disorders of Platelets and vessel Wall]
+score: 20486.08458667994
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 131 Polycythemia vera and other Myeloproliferative neoplasms]
+score: 6682.12207790878
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 208 Leptospirosis]
+score: 6022.3964185184905
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 463e special issues in inpatient neurologic Consultation]
+score: 5934.106997483307
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 143 Antiplatelet, Anticoagulant, and fibrinolytic drugs]
+score: 5450.056624313195
+elapsed time: 59.70969748497009
+[180213_01A] 악성림프종(허대석)_윤홍준 
+
+lymphoma b hodgkin aggressive prognosis nhl extranodal curable dlbcl bcell incidence chain years iii iv stage survival type treat
+[1, 5, 13, 14, 17]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 134 Malignancies of Lymphoid Cells]
+score: 76677.66567074589
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 113 Endocrine tumors of the Gastrointestinal tract and Pancreas]
+score: 17431.287766430112
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 119e soft tissue and Bone sarcomas and Bone Metastases]
+score: 13466.321566932731
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 135e Less Common Hematologic Malignancies]
+score: 10167.115223407744
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 226 Human immunodeficiency virus disease: Aids and related disorders]
+score: 9670.3854459193
+elapsed time: 107.00359416007996
+[180214_05A] 형질세포질환(김기환)_이제욱 
+
+myeloma multiple dl serum plasma bone l g stage chain manifestations mg
+[2, 5, 6, 7, 11]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 136 Plasma Cell disorders]
+score: 257259.0446145005
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 164 Meningitis, Encephalitis, Brain Abscess, and Empyema]
+score: 113447.35812226929
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 363 Alcoholic Liver disease]
+score: 86826.66262957784
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 418 diabetes Mellitus: Management and therapies]
+score: 81376.66289296397
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 443e technique of Lumbar Puncture]
+score: 75833.32886636257
+elapsed time: 71.38262057304382
+[180314_03] 지질대사 이상의 분류와 진단(문민경)_송재룡 
+
+liver ldl vldl cholesterol familial hdl chylomicrons secondary hypercholesterolemia triglycerides tg
+[1, 2, 5, 10]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 421 disorders of Lipoprotein Metabolism]
+score: 249406.99174361076
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 298 Hypertensive vascular disease]
+score: 68310.00384052595
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 293 ischemic Heart disease]
+score: 35809.96825555959
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 419 diabetes Mellitus: Complications]
+score: 30800.968586934938
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 422 the Metabolic syndrome]
+score: 29701.859361728028
+elapsed time: 78.20432186126709
+[180409_05A] 뇌부종과 뇌압상승(고상배)_김현진 
+
+icp edema brain osmotic kg cpp effective csf h surgical evd mannitol
+[0, 4, 5, 7, 8, 10]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 164 Meningitis, Encephalitis, Brain Abscess, and Empyema]
+score: 6999.273030161858
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 446 Cerebrovascular diseases]
+score: 4934.658286240366
+Recommendation-3: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 7 The Structure of the Nervous System]
+score: 4560.000439286232
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 348 Peptic ulcer disease and related disorders]
+score: 2820.4091769456863
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 226 Human immunodeficiency virus disease: Aids and related disorders]
+score: 2249.9999058246613
+elapsed time: 78.6003110408783
+[180413_05A] 조현병(정희연)_어원 
+
+schizophrenia psychotic thought social
+[]
+Recommendation-1: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 22 Mental Illness]
+score: 1040.5627325177193
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 466 Mental disorders]
+score: 870.245646238327
+Recommendation-3: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 1 Neuroscience: Past, Present, and Future]
+score: 289.99999165534973
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 226 Human immunodeficiency virus disease: Aids and related disorders]
+score: 219.9999988079071
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 465e Biology of Psychiatric disorders]
+score: 188.07686567306519
+elapsed time: 25.031776189804077
+[180508_03A] 폐혈관염_폐색전증(박종선)_김태엽 ver3 
+
+pulmonary pe gpa vasculitis embolism egpa granulomatosis mpa acute lung anca
+[1, 2, 5, 7, 9, 10]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 385 the vasculitis syndromes]
+score: 29950.527225269216
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 315 interstitial Lung diseases]
+score: 15237.230037384565
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 338 Glomerular diseases]
+score: 10749.445731374952
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 300 deep venous thrombosis and Pulmonary thromboembolism]
+score: 9600.091450313728
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 310 Hypersensitivity Pneumonitis and Pulmonary infiltrates with Eosinophilia]
+score: 9043.126723170279
+elapsed time: 72.08940768241882
+[180523_05A]판막질환1(손대원)_이지현 
+
+ms area cath gradient orifice doppler pressure valve mitral equation mr pathophysiology rv 2d echo gorlin
+[0, 1, 2, 10, 12, 13, 14]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 284 Mitral valve disease]
+score: 145443.43204912206
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 270e noninvasive Cardiac imaging: Echocardiography, nuclear Cardiology, and Magnetic resonance/Computed tomography imaging]
+score: 37316.04463362031
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 272 diagnostic Cardiac Catheterization and Coronary Angiography]
+score: 25047.890054881576
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 283 Aortic valve disease]
+score: 24842.410506837896
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 285 tricuspid and Pulmonic valve disease]
+score: 17774.2952127258
+elapsed time: 91.85672640800476
+[180525_01A] 허혈성심질환의 병인론과 위험인자(양한모)_정원주 
+
+risk mg years ldl statin dl mmhg factors wk
+[0, 1, 3, 5, 6, 8]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 291e the Pathogenesis, Prevention, and treatment of Atherosclerosis]
+score: 32448.108369211335
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 421 disorders of Lipoprotein Metabolism]
+score: 10860.026198791133
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 446 Cerebrovascular diseases]
+score: 7814.8148339324525
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 419 diabetes Mellitus: Complications]
+score: 6663.158666822646
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 293 ischemic Heart disease]
+score: 5632.386812898848
+elapsed time: 57.491668462753296
+[180612_03A]위식도역류질환 및 식도운동질환(김지원)_신민석 
+
+les esophagus esophageal achalasia reflux ppi dysphagia gerd
+[0, 5, 7]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 347 diseases of the Esophagus]
+score: 28965.06697151396
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 187 Acinetobacter infections]
+score: 9587.20817565918
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 345 Gastrointestinal Endoscopy]
+score: 9437.166000107922
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 382 systemic sclerosis (scleroderma) and related disorders]
+score: 5855.67737446891
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 348 Peptic ulcer disease and related disorders]
+score: 4053.98643301593
+elapsed time: 47.90855050086975
+[180615_01A]흡수장애 및 위장관 혈관 게실 질환(천재영)_오요셉 
+
+reduced mesenteric ischemia bowel
+[]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 354 Mesenteric vascular insufficiency]
+score: 7228.143847982091
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 355 Acute intestinal obstruction]
+score: 2728.4681457281113
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 293 ischemic Heart disease]
+score: 2618.065029978752
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 295 st-segment Elevation Myocardial infarction]
+score: 2205.0804245471954
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 270e noninvasive Cardiac imaging: Echocardiography, nuclear Cardiology, and Magnetic resonance/Computed tomography imaging]
+score: 1905.4767286777496
+elapsed time: 25.392414569854736
+[180802_01A] 하부요로의 질환(김영아)_방정현 
+
+urothelial carcinoma papillary grade bladder low tumors cancer urothelium high urinary invasive papilloma progression
+[5, 9]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 114 Bladder and renal Cell Carcinomas]
+score: 27960.99919156896
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 102e Cancer Cell Biology]
+score: 26920.108226405264
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 115 Benign and Malignant diseases of the Prostate]
+score: 26827.62077742153
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 103e Principles of Cancer treatment]
+score: 25872.904575235305
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 110 Lower Gastrointestinal Cancers]
+score: 21284.73561816746
+elapsed time: 90.63625121116638
+[180807_01A] 급성 신손상(이정표)_이다영 
+
+aki renal ml acute agents min 73m2 azotemia nsaids radiocontrast kidney hours injury prerenal drugs tubular ischemic
+[0, 2, 5, 6]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 368 Liver transplantation]
+score: 343271.57758507464
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 334 Acute Kidney injury]
+score: 251786.27634985602
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 361 toxic and drug-induced Hepatitis]
+score: 20368.86575248506
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 338 Glomerular diseases]
+score: 16139.91922424899
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 333e Adaptation of the Kidney to injury]
+score: 15409.074985649857
+elapsed time: 104.62163949012756
+[180809_01A] 만성 콩팥병의 병인(채동완)_장석진 
+
+kidney edition ckd factors brenner rector risk 8th cardiovascular 9th hypertension
+[2, 6, 7, 9]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 298 Hypertensive vascular disease]
+score: 56622.5027109517
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 335 Chronic Kidney disease]
+score: 25842.26262526379
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 291e the Pathogenesis, Prevention, and treatment of Atherosclerosis]
+score: 19811.726102431614
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 418 diabetes Mellitus: Management and therapies]
+score: 13090.41528602441
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 293 ischemic Heart disease]
+score: 11506.223296854232
+elapsed time: 61.73999619483948
+
+Lecture slide mode: Euclidean distance comparison function
+
+[180206_03A] 용혈성 빈혈(김기환)_김성래 
+
+hemolytic anemia hemolysis pnh cold defect hemoglobinuria lgg rbc autoimmune igm
+[3, 4, 7, 8, 10]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 129 Hemolytic Anemias and Anemia due to Acute Blood Loss]
+score: 25742.31935954756
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 127 disorders of Hemoglobin]
+score: 12698.719482951696
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 377e Autoimmunity and Autoimmune diseases]
+score: 7034.451049367585
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 134 Malignancies of Lymphoid Cells]
+score: 5421.250377893448
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 221 Parvovirus infections]
+score: 3956.3948758443203
+elapsed time: 68.5374960899353
+[180206_07A] 혈소판 감소증(김인호)_김수민 
+
+thrombocytopenia plt platelet bleeding production itp count destruction immune ttp hus
+[1, 5, 9, 10]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 140 disorders of Platelets and vessel Wall]
+score: 33062.68581006258
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 141 Coagulation disorders]
+score: 7259.902870257695
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 131 Polycythemia vera and other Myeloproliferative neoplasms]
+score: 6162.800725367334
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 208 Leptospirosis]
+score: 5982.504159609476
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 103e Principles of Cancer treatment]
+score: 5951.204524238904
+elapsed time: 54.730305671691895
+[180213_01A] 악성림프종(허대석)_윤홍준 
+
+lymphoma b hodgkin aggressive prognosis nhl extranodal curable dlbcl bcell incidence chain years iii iv stage survival type treat
+[1, 5, 13, 14, 17]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 134 Malignancies of Lymphoid Cells]
+score: 83145.14965272612
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 113 Endocrine tumors of the Gastrointestinal tract and Pancreas]
+score: 71028.06277861196
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 111 tumors of the Liver and Biliary tree]
+score: 18614.782567487822
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 226 Human immunodeficiency virus disease: Aids and related disorders]
+score: 15761.8329169684
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 119e soft tissue and Bone sarcomas and Bone Metastases]
+score: 15602.385010520618
+elapsed time: 105.20514798164368
+[180214_05A] 형질세포질환(김기환)_이제욱 
+
+myeloma multiple dl serum plasma bone l g stage chain manifestations mg
+[2, 5, 6, 7, 11]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 136 Plasma Cell disorders]
+score: 257393.5758918526
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 164 Meningitis, Encephalitis, Brain Abscess, and Empyema]
+score: 114339.79812231324
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 363 Alcoholic Liver disease]
+score: 86859.0511224667
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 418 diabetes Mellitus: Management and therapies]
+score: 82114.18140570313
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 443e technique of Lumbar Puncture]
+score: 75849.64534600572
+elapsed time: 65.53432869911194
+[180314_03] 지질대사 이상의 분류와 진단(문민경)_송재룡 
+
+liver ldl vldl cholesterol familial hdl chylomicrons secondary hypercholesterolemia triglycerides tg
+[1, 2, 5, 10]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 421 disorders of Lipoprotein Metabolism]
+score: 200220.18085065825
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 298 Hypertensive vascular disease]
+score: 71493.29673538604
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 293 ischemic Heart disease]
+score: 33184.670935173825
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 419 diabetes Mellitus: Complications]
+score: 27678.939957221348
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 422 the Metabolic syndrome]
+score: 22254.400438566998
+elapsed time: 54.93391275405884
+[180409_05A] 뇌부종과 뇌압상승(고상배)_김현진 
+
+icp edema brain osmotic kg cpp effective csf h surgical evd mannitol
+[0, 4, 5, 7, 8, 10]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 164 Meningitis, Encephalitis, Brain Abscess, and Empyema]
+score: 9032.250642379124
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 446 Cerebrovascular diseases]
+score: 7265.987532933552
+Recommendation-3: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 7 The Structure of the Nervous System]
+score: 6137.920912206173
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 348 Peptic ulcer disease and related disorders]
+score: 3120.3026711940765
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 226 Human immunodeficiency virus disease: Aids and related disorders]
+score: 3009.024920463562
+elapsed time: 58.69463348388672
+[180413_05A] 조현병(정희연)_어원 
+
+schizophrenia psychotic thought social
+[]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 226 Human immunodeficiency virus disease: Aids and related disorders]
+score: 19260.350497364998
+Recommendation-2: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 22 Mental Illness]
+score: 12112.234537270335
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 466 Mental disorders]
+score: 11453.91375985411
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 445 seizures and Epilepsy]
+score: 9540.43996291028
+Recommendation-5: Bear's Neuroscience, Exploring the Brain, 3rd ed.:
+[Chapter 24 Memory Systems]
+score: 8169.908500909805
+elapsed time: 23.908040761947632
+[180508_03A] 폐혈관염_폐색전증(박종선)_김태엽 ver3 
+
+pulmonary pe gpa vasculitis embolism egpa granulomatosis mpa acute lung anca
+[1, 2, 5, 7, 9, 10]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 300 deep venous thrombosis and Pulmonary thromboembolism]
+score: 9591.026513874533
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 385 the vasculitis syndromes]
+score: 9038.206836250094
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 315 interstitial Lung diseases]
+score: 7764.933699402544
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 270e noninvasive Cardiac imaging: Echocardiography, nuclear Cardiology, and Magnetic resonance/Computed tomography imaging]
+score: 7681.2635771764635
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 310 Hypersensitivity Pneumonitis and Pulmonary infiltrates with Eosinophilia]
+score: 6982.888243132166
+elapsed time: 63.57678747177124
+[180523_05A]판막질환1(손대원)_이지현 
+
+ms area cath gradient orifice doppler pressure valve mitral equation mr pathophysiology rv 2d echo gorlin
+[0, 1, 2, 10, 12, 13, 14]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 284 Mitral valve disease]
+score: 145114.3183429705
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 270e noninvasive Cardiac imaging: Echocardiography, nuclear Cardiology, and Magnetic resonance/Computed tomography imaging]
+score: 37290.69643835226
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 272 diagnostic Cardiac Catheterization and Coronary Angiography]
+score: 25048.128731250767
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 283 Aortic valve disease]
+score: 24881.01610114177
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 285 tricuspid and Pulmonic valve disease]
+score: 17812.213965521925
+elapsed time: 80.76201462745667
+[180525_01A] 허혈성심질환의 병인론과 위험인자(양한모)_정원주 
+
+risk mg years ldl statin dl mmhg factors wk
+[0, 1, 3, 5, 6, 8]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 291e the Pathogenesis, Prevention, and treatment of Atherosclerosis]
+score: 33846.792722112594
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 421 disorders of Lipoprotein Metabolism]
+score: 11410.517859359583
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 446 Cerebrovascular diseases]
+score: 10523.998727169303
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 293 ischemic Heart disease]
+score: 10382.456967896886
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 226 Human immunodeficiency virus disease: Aids and related disorders]
+score: 8234.181943833828
+elapsed time: 45.553462743759155
+[180612_03A]위식도역류질환 및 식도운동질환(김지원)_신민석 
+
+les esophagus esophageal achalasia reflux ppi dysphagia gerd
+[0, 5, 7]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 347 diseases of the Esophagus]
+score: 23120.557600160435
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 187 Acinetobacter infections]
+score: 9193.11950802803
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 382 systemic sclerosis (scleroderma) and related disorders]
+score: 5785.480111738047
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 345 Gastrointestinal Endoscopy]
+score: 4095.9549452861147
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 348 Peptic ulcer disease and related disorders]
+score: 3959.7300630145605
+elapsed time: 41.28862905502319
+[180615_01A]흡수장애 및 위장관 혈관 게실 질환(천재영)_오요셉 
+
+reduced mesenteric ischemia bowel
+[]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 354 Mesenteric vascular insufficiency]
+score: 8881.825480361778
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 293 ischemic Heart disease]
+score: 3427.1185314655304
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 446 Cerebrovascular diseases]
+score: 3366.1913779377937
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 295 st-segment Elevation Myocardial infarction]
+score: 3088.514110147953
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 355 Acute intestinal obstruction]
+score: 2925.241243839264
+elapsed time: 21.763810396194458
+[180802_01A] 하부요로의 질환(김영아)_방정현 
+
+urothelial carcinoma papillary grade bladder low tumors cancer urothelium high urinary invasive papilloma progression
+[5, 9]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 114 Bladder and renal Cell Carcinomas]
+score: 23571.041914125282
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 115 Benign and Malignant diseases of the Prostate]
+score: 22679.54268988636
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 103e Principles of Cancer treatment]
+score: 18278.748635649677
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 405 disorders of the thyroid Gland]
+score: 15077.208071814643
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 113 Endocrine tumors of the Gastrointestinal tract and Pancreas]
+score: 14595.238807366955
+elapsed time: 75.43235325813293
+[180807_01A] 급성 신손상(이정표)_이다영 
+
+aki renal ml acute agents min 73m2 azotemia nsaids radiocontrast kidney hours injury prerenal drugs tubular ischemic
+[0, 2, 5, 6]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 368 Liver transplantation]
+score: 344576.890062491
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 334 Acute Kidney injury]
+score: 253505.03933784107
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 208 Leptospirosis]
+score: 44627.034111751454
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 361 toxic and drug-induced Hepatitis]
+score: 35152.54242105617
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 362 Chronic Hepatitis]
+score: 18698.52752894163
+elapsed time: 108.25448417663574
+[180809_01A] 만성 콩팥병의 병인(채동완)_장석진 
+
+kidney edition ckd factors brenner rector risk 8th cardiovascular 9th hypertension
+[2, 6, 7, 9]
+Recommendation-1: Harrison's principles of internal medicine, 19th ed.:
+[Section 298 Hypertensive vascular disease]
+score: 84745.04370202625
+Recommendation-2: Harrison's principles of internal medicine, 19th ed.:
+[Section 339 Polycystic Kidney disease and other inherited disorders of tubule Growth and development]
+score: 61433.199316958584
+Recommendation-3: Harrison's principles of internal medicine, 19th ed.:
+[Section 335 Chronic Kidney disease]
+score: 47007.466254002546
+Recommendation-4: Harrison's principles of internal medicine, 19th ed.:
+[Section 419 diabetes Mellitus: Complications]
+score: 35119.10314649344
+Recommendation-5: Harrison's principles of internal medicine, 19th ed.:
+[Section 293 ischemic Heart disease]
+score: 29519.999793138762
+elapsed time: 54.11612105369568
